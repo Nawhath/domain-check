@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
+#  for Update Script : https://github.com/Nawhath/domain-check/
+#
 #  will expire in 60-days or less:
 #
 #  $ domain-check -a -f domains -q -x 60 -e admin@qsncc.com
